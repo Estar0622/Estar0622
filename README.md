@@ -3,13 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Estar&fontAlign=50&fontAlignY=35)
 
-<div style="width:400px; height:200px; float:left">
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai)](https://solved.ac/백준아이디)
-</div>
-<div style="width:400px; height:200px; float:right"
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myjudai)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+
 # 🔖 SNS
 <a href="https://instagram.com/e.star_0622">
     <img 
