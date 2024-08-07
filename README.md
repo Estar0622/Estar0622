@@ -4,7 +4,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Estar&fontAlign=50&fontAlignY=35)
 
 # SNS
-<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/e.star_0622">
+<a href="https://instagram.com/e.star_0622">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 # 👏 Introduction
 ###   안녕하세요 Java 기반 웹 개발, Python 기반 AI 개발하는 E.star라고 합니다. 
