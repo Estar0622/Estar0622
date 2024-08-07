@@ -4,18 +4,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Estar&fontAlign=50&fontAlignY=35)
 
 
-<div style="display: flex; justify-content: center;">
-    <div>
-        <a href="https://solved.ac/백준아이디">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai" alt="Solved.ac 프로필">
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=Estar0622" alt="Anurag's GitHub stats">
-        </a>
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://solved.ac/백준아이디">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai" alt="Solved.ac 프로필">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Estar0622" alt="Anurag's GitHub stats">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 # 🔖 SNS
