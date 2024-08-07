@@ -12,7 +12,7 @@
 <a href="https://velog.io/@estar0622/posts">
     <img 
         src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a>
 
 # 👏 Introduction
