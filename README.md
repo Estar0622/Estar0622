@@ -26,12 +26,7 @@
 <a href="https://instagram.com/e.star_0622">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://velog.io/@estar0622"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
-
-</a>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>  <a href="https://velog.io/@estar0622"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/> </a>
 
 
 
