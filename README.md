@@ -17,6 +17,8 @@
 
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estar0622)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 # 👏 Introduction
