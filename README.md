@@ -2,8 +2,11 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Estar&fontAlign=50&fontAlignY=35)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai)](https://solved.ac/백준아이디)
 
-# SNS
+
+# 🔖 SNS
 <a href="https://instagram.com/e.star_0622">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
@@ -14,9 +17,6 @@
 
 </a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai)](https://solved.ac/백준아이디)
-
 
 
 # 👏 Introduction
@@ -25,3 +25,14 @@
 
 
 
+# 🖥 Skill
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+ 
