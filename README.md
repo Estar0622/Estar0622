@@ -11,7 +11,7 @@
 </a>
 <a href="https://velog.io/@estar0622/posts">
     <img 
-        src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"
+        src="https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a>
 
