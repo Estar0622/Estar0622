@@ -9,9 +9,9 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@estar0622/posts">
+<a href="[https://velog.io/@estar0622/posts](https://velog-readme-stats.vercel.app/api/badge?name=estar_0622)">
     <img 
-        src="https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/"
+        src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"
         style="height : auto; margin-left : 7px; margin-right : 7px;"/>
 </a>
 
