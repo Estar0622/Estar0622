@@ -14,6 +14,9 @@
 
 </a>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai)](https://solved.ac/백준아이디)
+
 
 
 # 👏 Introduction
