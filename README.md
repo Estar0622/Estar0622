@@ -7,7 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai)](https://solved.ac/백준아이디)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myjudai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estar0622)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🔖 SNS
