@@ -8,7 +8,7 @@
   <tr>
     <td>
       <a href="https://solved.ac/estar0622">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myjudai" alt="Solved.ac 프로필">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=estar0622" alt="Solved.ac 프로필">
       </a>
     </td>
     <td>
